@@ -1,4 +1,4 @@
-const words = ["apple", "banana", "orange", "grape", "strawberry", "melon"];
+const words = ["sos", "cqcq","qrz", "1", "6", "73", "happy","thx","bye","good","bad"];
 const morseCodeMap = {
     'a': '.-',    'b': '-...',  'c': '-.-.',  'd': '-..',   'e': '.',
     'f': '..-.',  'g': '--.',   'h': '....',  'i': '..',    'j': '.---',
